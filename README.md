@@ -1,8 +1,9 @@
-<div align="center">
-  <img src="prathamesh_ai_portrait.gif" alt="Terminal Visual" width="100%">
-</div>
-
-<br>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="40%" valign="top" align="center">
+      <img src="animated-portrait.gif" alt="Prathamesh Scanning Portrait" width="100%" style="border-radius: 8px;">
+    </td>
+    <td width="60%" valign="top">
 
 ```python
 class PrathameshPandore:
@@ -23,6 +24,10 @@ class PrathameshPandore:
 
     goal = "AI Engineer"
 ```
+
+    </td>
+  </tr>
+</table>
 
 <br>
 
