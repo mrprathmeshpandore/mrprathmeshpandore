@@ -1,117 +1,133 @@
-<div align="center">
-
-<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="60%" align="left" valign="middle">
-      <h1 align="left">PRATHAMESH PANDORE</h1>
-      <h3 align="left">AI Enthusiast | Full Stack Developer | BCA Student</h3>
-      <br>
-      <img src="https://readme-typing-svg.demolab.com?font=Inter&size=15&pause=1000&color=3FB950&width=450&lines=>+Building+Intelligent+Applications...;>+Exploring+Artificial+Intelligence...;>+Creating+Full+Stack+Systems...;>+Learning.+Building.+Improving." alt="Typing animation">
+    <td width="40%" valign="top" align="center">
+      <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Terminal Visual" width="100%">
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="AI Node Network">
+    <td width="60%" valign="top">
+
+```python
+class PrathameshPandore:
+
+    role = "AI Enthusiast"
+    developer = "Full Stack Developer"
+    education = "BCA Student"
+
+    focus = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "AI Applications"
+    ]
+
+    stack = [
+        "Python", "React", "FastAPI", "SQL"
+    ]
+
+    goal = "AI Engineer"
+```
+
     </td>
   </tr>
 </table>
 
 <br>
 
-<pre align="center">
-prathamesh@ai-dev:~$ status
-
-AI Systems      [ONLINE]
-Learning        [ACTIVE]
-Building        [ACTIVE]
-Mode            [FOCUS]
-</pre>
+<div align="center">
+  <h2>▶ Prathamesh Pandore</h2>
+  <p>AI Enthusiast And Full Stack Developer Exploring Artificial Intelligence, Machine Learning And Modern Web Technologies.</p>
+</div>
 
 <br>
 
-<p align="center">
-  <i>
-    I am an AI Enthusiast and Full Stack Developer exploring the intersection of Artificial Intelligence, <br>
-    Machine Learning, and modern web architectures. I build intelligent applications that solve real-world problems <br>
-    and am focused on expanding my engineering skillset to evolve into a proficient AI Engineer.
-  </i>
-</p>
-
-</div>
-
----
-
-### ✦ Currently Exploring
+### 👤 Profile Information
 
 <ul>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" width="16" alt="Pulse"> <b>Artificial Intelligence & Machine Learning</b></li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" width="16" alt="Pulse"> <b>Generative AI & AI Powered Applications</b></li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" width="16" alt="Pulse"> <b>Modern Full Stack Development</b></li>
+  <li>🎓 <b>BCA Student</b> At University Of Mysore</li>
+  <li>💼 <b>AI Intern</b> At The Baap Company</li>
+  <li>🤖 <b>Exploring</b> Artificial Intelligence And Machine Learning</li>
+  <li>💻 <b>Building</b> AI Powered Applications</li>
+  <li>🚀 <b>Full Stack</b> Development</li>
+  <li>🎯 <b>Aspiring</b> AI Engineer</li>
 </ul>
 
----
+<br>
 
-### ✦ Tech Stack
+### 🛠 Tech Stack
 
-<b>Languages</b><br>
-<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Languages">
+<b>Languages</b>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql&theme=dark" alt="Languages">
+</p>
 
-<br><br>
+<b>Frameworks</b>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,fastapi,tailwind,bootstrap&theme=dark" alt="Frameworks">
+</p>
 
-<b>Frameworks</b><br>
-<img src="https://skillicons.dev/icons?i=react,fastapi,tailwind,bootstrap&theme=dark" alt="Frameworks">
+<b>Tools & Databases</b>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,gitlab,vscode&theme=dark" alt="Tools">
+</p>
 
-<br><br>
+<br>
 
-<b>Databases & Tools</b><br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,gitlab,vscode&theme=dark" alt="Tools">
+### 🏆 Achievements
 
----
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=mrprathmeshpandore&theme=gitdimmed&margin-w=15&margin-h=15&no-frame=true&column=6&no-bg=true" alt="Achievements">
+</p>
 
-### ✦ Featured Projects
+<br>
+
+### 📊 GitHub Contributions
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrprathmeshpandore&theme=react-dark&bg_color=0d1117&color=3fb950&line=3fb950&point=3fb950&area=true&hide_border=true" alt="Contribution Graph" width="100%">
+</div>
+
+<br>
+
+### 📂 Popular Repositories
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="50%" valign="top">
       <h4>🏥 ZVM Hospital</h4>
       <p><i>A robust hospital management interface.</i></p>
       <p><b>TypeScript • React</b></p>
-      <p><a href="https://github.com/mrprathmeshpandore/zvm-hospital" style="color: #3fb950; text-decoration: none;">View Project</a></p>
+      <p><a href="https://github.com/mrprathmeshpandore/zvm-hospital">View Repository</a></p>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="50%" valign="top">
       <h4>💼 My Portfolio</h4>
-      <p><i>Personal AI developer portfolio.</i></p>
+      <p><i>Personal developer portfolio.</i></p>
       <p><b>TypeScript • Frontend Web</b></p>
-      <p><a href="https://github.com/mrprathmeshpandore/My_Porfolio" style="color: #3fb950; text-decoration: none;">View Project</a></p>
+      <p><a href="https://github.com/mrprathmeshpandore/My_Porfolio">View Repository</a></p>
     </td>
-    <td width="33%" align="center" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>📝 To-Do Management System</h4>
       <p><i>A smart task management application.</i></p>
       <p><b>HTML • CSS • JavaScript</b></p>
-      <p><a href="https://github.com/mrprathmeshpandore/To-Do-Management-System" style="color: #3fb950; text-decoration: none;">View Project</a></p>
+      <p><a href="https://github.com/mrprathmeshpandore/To-Do-Management-System">View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>✅ To-Do List</h4>
+      <p><i>A lightweight task list app.</i></p>
+      <p><b>Web Technologies</b></p>
+      <p><a href="https://github.com/mrprathmeshpandore/To-Do-List">View Repository</a></p>
     </td>
   </tr>
 </table>
 
----
-
-### ✦ GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrprathmeshpandore&show_icons=true&theme=transparent&hide_border=true&title_color=3fb950&icon_color=3fb950&text_color=8b949e" alt="GitHub Stats">
-</div>
-
----
-
-### ✦ Connect
-
-<div align="center">
-  <a href="https://github.com/mrprathmeshpandore">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:prathmeshpandore@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email">
-  </a>
-</div>
-
 <br>
-<p align="center"><i>"Building The Future, One Line Of Code At A Time."</i></p>
+
+### 📫 Connect
+
+<p>
+  <a href="https://github.com/mrprathmeshpandore">
+    <img src="https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=3fb950&labelColor=0d1117&color=0d1117" alt="GitHub">
+  </a>
+  <a href="mailto:prathmeshpandore@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=3fb950&labelColor=0d1117&color=0d1117" alt="Email">
+  </a>
+</p>
