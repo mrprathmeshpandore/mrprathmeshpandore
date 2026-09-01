@@ -1,64 +1,117 @@
 <div align="center">
 
-<h1>PRATHAMESH PANDORE</h1>
-
-<p>
-  <b>AI Enthusiast | Full Stack Developer | BCA Student</b>
-  <br><br>
-  <i>Building Intelligent Applications With AI And Modern Web Technologies.</i>
-</p>
+<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none;">
+  <tr>
+    <td width="60%" align="left" valign="middle">
+      <h1 align="left">PRATHAMESH PANDORE</h1>
+      <h3 align="left">AI Enthusiast | Full Stack Developer | BCA Student</h3>
+      <br>
+      <img src="https://readme-typing-svg.demolab.com?font=Inter&size=15&pause=1000&color=3FB950&width=450&lines=>+Building+Intelligent+Applications...;>+Exploring+Artificial+Intelligence...;>+Creating+Full+Stack+Systems...;>+Learning.+Building.+Improving." alt="Typing animation">
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="AI Node Network">
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="AI Neural Network" width="100%">
+<pre align="center">
+prathamesh@ai-dev:~$ status
 
-<br><br>
+AI Systems      [ONLINE]
+Learning        [ACTIVE]
+Building        [ACTIVE]
+Mode            [FOCUS]
+</pre>
 
-> AI Enthusiast And Full Stack Developer Exploring Artificial Intelligence, <br>
-> Machine Learning And Modern Web Technologies.
+<br>
 
-<br><br>
-
-<p>
-  <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-</p>
-
-<br><br>
-
-<p>
-  <a href="https://github.com/mrprathmeshpandore/zvm-hospital" style="color: #3fb950; text-decoration: none;"><b>ZVM Hospital</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/mrprathmeshpandore/My_Porfolio" style="color: #3fb950; text-decoration: none;"><b>My Portfolio</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/mrprathmeshpandore/To-Do-Management-System" style="color: #3fb950; text-decoration: none;"><b>To-Do Management System</b></a>
-</p>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=mrprathmeshpandore&show_icons=true&theme=transparent&hide_border=true&title_color=3fb950&icon_color=3fb950&text_color=8b949e" alt="GitHub Stats">
-
-<br><br>
-
-<p>
-  <a href="https://github.com/mrprathmeshpandore">
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:prathmeshpandore@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
+<p align="center">
+  <i>
+    I am an AI Enthusiast and Full Stack Developer exploring the intersection of Artificial Intelligence, <br>
+    Machine Learning, and modern web architectures. I build intelligent applications that solve real-world problems <br>
+    and am focused on expanding my engineering skillset to evolve into a proficient AI Engineer.
+  </i>
 </p>
 
 </div>
+
+---
+
+### ✦ Currently Exploring
+
+<ul>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" width="16" alt="Pulse"> <b>Artificial Intelligence & Machine Learning</b></li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" width="16" alt="Pulse"> <b>Generative AI & AI Powered Applications</b></li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" width="16" alt="Pulse"> <b>Modern Full Stack Development</b></li>
+</ul>
+
+---
+
+### ✦ Tech Stack
+
+<b>Languages</b><br>
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Languages">
+
+<br><br>
+
+<b>Frameworks</b><br>
+<img src="https://skillicons.dev/icons?i=react,fastapi,tailwind,bootstrap&theme=dark" alt="Frameworks">
+
+<br><br>
+
+<b>Databases & Tools</b><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,gitlab,vscode&theme=dark" alt="Tools">
+
+---
+
+### ✦ Featured Projects
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h4>🏥 ZVM Hospital</h4>
+      <p><i>A robust hospital management interface.</i></p>
+      <p><b>TypeScript • React</b></p>
+      <p><a href="https://github.com/mrprathmeshpandore/zvm-hospital" style="color: #3fb950; text-decoration: none;">View Project</a></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>💼 My Portfolio</h4>
+      <p><i>Personal AI developer portfolio.</i></p>
+      <p><b>TypeScript • Frontend Web</b></p>
+      <p><a href="https://github.com/mrprathmeshpandore/My_Porfolio" style="color: #3fb950; text-decoration: none;">View Project</a></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>📝 To-Do Management System</h4>
+      <p><i>A smart task management application.</i></p>
+      <p><b>HTML • CSS • JavaScript</b></p>
+      <p><a href="https://github.com/mrprathmeshpandore/To-Do-Management-System" style="color: #3fb950; text-decoration: none;">View Project</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ✦ GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrprathmeshpandore&show_icons=true&theme=transparent&hide_border=true&title_color=3fb950&icon_color=3fb950&text_color=8b949e" alt="GitHub Stats">
+</div>
+
+---
+
+### ✦ Connect
+
+<div align="center">
+  <a href="https://github.com/mrprathmeshpandore">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:prathmeshpandore@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email">
+  </a>
+</div>
+
+<br>
+<p align="center"><i>"Building The Future, One Line Of Code At A Time."</i></p>
