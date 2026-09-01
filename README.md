@@ -1,7 +1,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="40%" valign="top" align="center">
-      <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Terminal Visual" width="100%">
+      <img src="prathamesh_ai_portrait.gif" alt="Terminal Visual" width="100%">
     </td>
     <td width="60%" valign="top">
 
